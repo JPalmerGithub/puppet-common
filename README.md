@@ -1,4 +1,4 @@
-puppet-common
-======
+ext_stdlibs
+===========
 
-Useful functions that belong in a shared Puppet module
+This module contains "extra" resources useful for Puppet modules
